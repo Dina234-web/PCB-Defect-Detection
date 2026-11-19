@@ -27,8 +27,7 @@ It has 1,500 image pairs, split into 1,000 for training and 500 for testing. The
 
 | File | Description |
 |---|---|
-| `Code/data.py` | Loads the DeepPCB train and test splits, the test and template images, and the open/short ground truth boxes |
-| `Code/data.ipynb` | Notebook version of `data.py` with the dataset statistics and example images |
+| `Code/data.ipynb` | Loads the DeepPCB train and test splits, the test and template images, and the open/short ground truth boxes. It also shows the dataset statistics and example images |
 | `.gitignore` | Keeps the `DeepPCB` folder out of the repository |
 | `README.md` | This file |
 
